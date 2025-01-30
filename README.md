@@ -1,5 +1,6 @@
 # Stubo's Show XP Gain
 ![A screenshot showing XP notifications](xpgain.png)
+
 A BepInEx plugin for Obenseuer that adds XP gain notifications to the UI.
 
 ## Description
